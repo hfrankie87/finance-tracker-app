@@ -219,7 +219,7 @@ DEPENDENCIES
   sdoc (~> 0.4.0)
   spring
   sqlite3
-  stock_quote
+  stock_quote (~> 2.00)
   turbolinks
   twitter-bootstrap-rails
   uglifier (>= 1.3.0)
